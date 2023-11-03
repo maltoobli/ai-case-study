@@ -21,10 +21,6 @@ Uses generative AI and simple text prompts to create the highest-quality output 
 
 
 
-<video controls width="480" height="270">
-    <source src="https://youtu.be/NPJNPrshhTo?si=geYTdN3IzopQKahO">
-    Your browser does not support the video tag.
-</video>
 
 
  
@@ -90,7 +86,7 @@ Adobe Firefly is a cutting-edge AI tool that leverages the power of natural lang
 It is for creators to be able to use everyday language and other inputs to quickly be able to test out design variations, remove distractions from photos, add elements to an illustration, change the mood of a video, add texture to 3D objects, create digital experiences, and more then seamlessly customize and edit their content using a combination of Firefly and other Creative Cloud tools.
 
 ---------
-#### What solution does Adobe Firefly offer that their competitors do not or cannot offer?
+#### What solution does Adobe Firefly offers that their competitors do not or cannot offer?
 
 Firefly's templates integrate well with other Adobe services, while others (the compitotrs )focus more on the customization and versatility of their generative AI model.<sup>7</sup>
 
